@@ -1,5 +1,4 @@
-# helpful-readings
-Collection of the books and articles I would recommend for AI, career, life, etc.
+
 ## AI & ML
 
 ## Software Engineering
@@ -15,5 +14,7 @@ Collection of the books and articles I would recommend for AI, career, life, etc
 ## Health & Fitness
 
 ## Books
+- [Three Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032) — Fascinating book that combines existential science fiction topics with history, war, technology, and politics. Kind of hard to keep up with some of the super scientific and historical bits but the overall theme of what humanity relying on faith in humanity is really great.
 
 ## Misc
+
