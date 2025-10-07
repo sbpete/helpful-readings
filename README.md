@@ -1,5 +1,5 @@
 # helpful-readings
-Collection of the books I've read and my takes on them
+Collection of the books and articles I would recommend for AI, career, life, etc.
 ## AI & ML
 
 ## Software Engineering
