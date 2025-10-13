@@ -10,6 +10,7 @@
 ## Economics & Finance
 
 ## Career & Leadership
+- [Soft Skills Matter Now More Than Ever](https://hbr.org/2025/08/soft-skills-matter-now-more-than-ever-according-to-new-research?ab=HP-hero-for-you-1) — As AI continues to improve and replaces more and more lower-level tasks in industries like Software Engineering and Consulting, entry-level employees are increasingly going to need to think bigger picture, collaborate with others, and coordinate new and various systems. In the past, companies could get away with screening for leadership ability after fulfilling all of their entry-level positions, with the best and brightest rising to the top, but now they must make sure that even their early talent understands the business is able to lead small initiatives- even if just with AI workers working for them. We can already see this reflected in companies' increasing AI use, screening for talent with AI interest/skills, and reducing the number of new hires. In such a fast-moving landscape, the companies that succeed will be the ones that up-skill their current workforce in terms of AI and business literacy and screen for leadership talent from an early stage, increasing ownership throughout the company leading to more innovation and new ideas.
 
 ## Health & Fitness
 
