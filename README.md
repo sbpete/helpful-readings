@@ -2,6 +2,7 @@
 ## AI & ML
 
 ## Software Engineering
+- [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) — In the software industry, more emphasis is put on deep technical skills than their ought to be. While these skills are still important, people that are curious and have a good grasp of the fundamentals of adjacent industries or functions outside of their team are often the ones that "drive features to completion." Many of these skills are hard to quantify and so interviews still consist of memorizing syntax and esoteric patterns, but the industry should soon shift to a screen for more deductive reasoning and decomposition skills. Fostering a culture of cross-collaboration at companies is much harder to do than say, but the article even recommends some workshops that can be useful for teams to try out. Being curious is hard and growth is challenging, but it is ultimately the collaborative and curious people that get the most done.
 
 ## Product & Design
 
